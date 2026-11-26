@@ -1,0 +1,27 @@
+{
+  "download_date": "2026-10-29",
+  "entries": 58903,
+  "sources": [
+    {
+      "url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "entries": 40421,
+      "sha256": "8c2a5fdc28f17375a4d12c295e26094fcd3cb483b969485f2383afea25b7aaa0"
+    },
+    {
+      "url": "https://standards-oui.ieee.org/oui28/mam.csv",
+      "entries": 6660,
+      "sha256": "e684674f9099aa3b155113174f76e261d00c750f7f79dfbe6ffdbfd11da709b5"
+    },
+    {
+      "url": "https://standards-oui.ieee.org/oui36/oui36.csv",
+      "entries": 7250,
+      "sha256": "6dd9f17a5433e958edf9c916a1d079805462303db0c4a0995caa0f010f844959"
+    },
+    {
+      "url": "https://standards-oui.ieee.org/iab/iab.csv",
+      "entries": 4575,
+      "sha256": "6e71aa3d47f00f19d09cb3b31ce1038de1834703420f0ce4ce111da586f1a533"
+    }
+  ],
+  "description": "IEEE public assignments; organization names retained, addresses omitted; longest-prefix matching"
+}
